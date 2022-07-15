@@ -6,7 +6,7 @@
   <link href="http://dealsks.com/atom.xml" rel="self"/>
   
   <link href="http://dealsks.com/"/>
-  <updated>2022-07-13T13:42:52.066Z</updated>
+  <updated>2022-07-15T14:42:29.904Z</updated>
   <id>http://dealsks.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>BCD-130L(146)</title>
-    <link href="http://dealsks.com/2022/07/13/bcd-130l-146/"/>
-    <id>http://dealsks.com/2022/07/13/bcd-130l-146/</id>
-    <published>2022-07-13T13:41:00.000Z</published>
-    <updated>2022-07-13T13:42:52.066Z</updated>
+    <title>test</title>
+    <link href="http://dealsks.com/2022/07/15/test/"/>
+    <id>http://dealsks.com/2022/07/15/test/</id>
+    <published>2022-07-15T02:18:42.000Z</published>
+    <updated>2022-07-15T14:42:29.904Z</updated>
     
     
       
@@ -29,6 +29,33 @@
         
         
     <summary type="html">&lt;p&gt;| price:$ | &lt;font color=red &gt;moq:2&lt;/font&gt; |&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- ITEM NO.	PRODUCT	PICTURE	UNIT PRICE	Q&#39;TY/pc	AMOUNT	Q&#39;TY/CTN</summary>
+        
+      
+    
+    
+    
+    <category term="default" scheme="http://dealsks.com/categories/default/"/>
+    
+    
+    <category term="default" scheme="http://dealsks.com/tags/default/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BCD-130L(146)</title>
+    <link href="http://dealsks.com/2022/07/13/bcd-130l-146/"/>
+    <id>http://dealsks.com/2022/07/13/bcd-130l-146/</id>
+    <published>2022-07-13T13:41:00.000Z</published>
+    <updated>2022-07-14T12:23:58.366Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;| price:$156 | &lt;font color=red &gt;moq:2&lt;/font&gt; |&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;“Double door refrigerator&lt;br&gt;220V-240V, 50Hz-60Hz 100W&lt;br&gt;Net Capacity:</summary>
         
@@ -216,11 +243,11 @@
     <category term="freezer" scheme="http://dealsks.com/categories/freezer/"/>
     
     
+    <category term="118L" scheme="http://dealsks.com/tags/118L/"/>
+    
     <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
     
     <category term="household" scheme="http://dealsks.com/tags/household/"/>
-    
-    <category term="118L" scheme="http://dealsks.com/tags/118L/"/>
     
     <category term="refrigerated" scheme="http://dealsks.com/tags/refrigerated/"/>
     
@@ -385,9 +412,9 @@
     
     <category term="refrigerator" scheme="http://dealsks.com/tags/refrigerator/"/>
     
-    <category term="148-liter" scheme="http://dealsks.com/tags/148-liter/"/>
-    
     <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
+    
+    <category term="148-liter" scheme="http://dealsks.com/tags/148-liter/"/>
     
     <category term="household" scheme="http://dealsks.com/tags/household/"/>
     
@@ -599,9 +626,9 @@
     <category term="toys" scheme="http://dealsks.com/categories/toys/"/>
     
     
-    <category term="toys" scheme="http://dealsks.com/tags/toys/"/>
-    
     <category term="small" scheme="http://dealsks.com/tags/small/"/>
+    
+    <category term="toys" scheme="http://dealsks.com/tags/toys/"/>
     
     <category term="mini" scheme="http://dealsks.com/tags/mini/"/>
     
@@ -612,41 +639,6 @@
     <category term="coin-operated" scheme="http://dealsks.com/tags/coin-operated/"/>
     
     <category term="game" scheme="http://dealsks.com/tags/game/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cross-border popular children&#39;s jigsaw puzzle 180 pieces educational puzzle toy 6-year-old cartoon animal digital thinking puzzle toy</title>
-    <link href="http://dealsks.com/2022/07/09/kua-jing-bao-kuan-er-tong-pin-tu-180-pian-yi-zhi-pin-tu-wan-ju-6-sui-qia-tong-dong-wu-shu-zi-si-wei-pin-tu-wan-ju/"/>
-    <id>http://dealsks.com/2022/07/09/kua-jing-bao-kuan-er-tong-pin-tu-180-pian-yi-zhi-pin-tu-wan-ju-6-sui-qia-tong-dong-wu-shu-zi-si-wei-pin-tu-wan-ju/</id>
-    <published>2022-07-09T08:09:49.000Z</published>
-    <updated>2022-07-13T09:35:43.791Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;| 100 piece puzzle | price:$3 | &lt;font color=red &gt;moq:60&lt;/font&gt; |&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;| 180 piece puzzle | price:$3.5 | &lt;font color=red</summary>
-        
-      
-    
-    
-    
-    <category term="toy" scheme="http://dealsks.com/categories/toy/"/>
-    
-    
-    <category term="toy" scheme="http://dealsks.com/tags/toy/"/>
-    
-    <category term="puzzle" scheme="http://dealsks.com/tags/puzzle/"/>
-    
-    <category term="educational" scheme="http://dealsks.com/tags/educational/"/>
-    
-    <category term="animal" scheme="http://dealsks.com/tags/animal/"/>
-    
-    <category term="jigsaw" scheme="http://dealsks.com/tags/jigsaw/"/>
     
   </entry>
   
