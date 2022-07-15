@@ -243,11 +243,11 @@
     <category term="freezer" scheme="http://dealsks.com/categories/freezer/"/>
     
     
-    <category term="118L" scheme="http://dealsks.com/tags/118L/"/>
-    
     <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
     
     <category term="household" scheme="http://dealsks.com/tags/household/"/>
+    
+    <category term="118L" scheme="http://dealsks.com/tags/118L/"/>
     
     <category term="refrigerated" scheme="http://dealsks.com/tags/refrigerated/"/>
     
@@ -412,9 +412,9 @@
     
     <category term="refrigerator" scheme="http://dealsks.com/tags/refrigerator/"/>
     
-    <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
-    
     <category term="148-liter" scheme="http://dealsks.com/tags/148-liter/"/>
+    
+    <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
     
     <category term="household" scheme="http://dealsks.com/tags/household/"/>
     
@@ -626,9 +626,9 @@
     <category term="toys" scheme="http://dealsks.com/categories/toys/"/>
     
     
-    <category term="small" scheme="http://dealsks.com/tags/small/"/>
-    
     <category term="toys" scheme="http://dealsks.com/tags/toys/"/>
+    
+    <category term="small" scheme="http://dealsks.com/tags/small/"/>
     
     <category term="mini" scheme="http://dealsks.com/tags/mini/"/>
     
