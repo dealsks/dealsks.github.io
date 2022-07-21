@@ -937,6 +937,42 @@
                     </span>
                 </a>
                 
+                
+                <a href="/tags/Iron/" title="Iron: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="Iron" style="background-color: #FEF9E7;">Iron
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/RAF/" title="RAF: 3">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="RAF" style="background-color: #F5EEF8;">RAF
+                        <span class="tag-length">3</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/meat-grinder/" title="meat grinder: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="meat grinder" style="background-color: #F8C471;">meat grinder
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
+                
+                <a href="/tags/egg-beater/" title="egg beater: 1">
+                    <span class="chip center-align waves-effect waves-light
+                             chip-default "
+                            data-tagname="egg beater" style="background-color: #FEF9E7;">egg beater
+                        <span class="tag-length">1</span>
+                    </span>
+                </a>
+                
             </div>
         </div>
     </div>
@@ -953,9 +989,9 @@
                     <a href="/2022/07/13/jia-yong-san-men-bing-xiang-ruan-leng-dong-jie-neng-sheng-dian-yi-ji-neng-xiao-xiao-xing-bing-xiang-152-sheng/">
                         <div class="card-image tag-image">
                             
-                            <img src="https://cdn.jsdelivr.net/gh/dealsks/blog_img/md_photos/c8e073567474becfcbdbb940d12e079c" class="responsive-img" alt="Household three-door refrigerator soft freezing energy-saving energy-saving first-class energy-efficient small refrigerator 152 liters">
+                            <img src="https://cdn.jsdelivr.net/gh/dealsks/blog_img/md_photos/c8e073567474becfcbdbb940d12e079c" class="responsive-img" alt="three-door refrigerator 152 liters">
                             
-                            <span class="card-title">Household three-door refrigerator soft freezing energy-saving energy-saving first-class energy-efficient small refrigerator 152 liters</span>
+                            <span class="card-title">three-door refrigerator 152 liters</span>
                         </div>
                     </a>
                     <div class="card-content article-content">
@@ -1287,24 +1323,7 @@ $(function () {
 </body>
 
 </html>
-ntent_id) {
-        'use strict';
-        $.ajax({
-            url: path,
-            dataType: "xml",
-            success: function (xmlResponse) {
-                // get the contents from search data
-                var datas = $("entry", xmlResponse).map(function () {
-                    return {
-                        title: $("title", this).text(),
-                        content: $("content", this).text(),
-                        url: $("url", this).text()
-                    };
-                }).get();
-                var $input = document.getElementById(search_id);
-                var $resultContent = document.getElementById(content_id);
-                $input.addEventListener('input', function () {
-                    var str = '<ul class=\"search-result-list\">';
+       var str = '<ul class=\"search-result-list\">';
                     var keywords = this.value.trim().toLowerCase().split(/[\s\-]+/);
                     $resultContent.innerHTML = "";
                     if (this.value.trim().length <= 0) {
