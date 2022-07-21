@@ -44,9 +44,9 @@
     <category term="egg beater" scheme="http://dealsks.com/categories/egg-beater/"/>
     
     
-    <category term="RAF" scheme="http://dealsks.com/tags/RAF/"/>
-    
     <category term="egg beater" scheme="http://dealsks.com/tags/egg-beater/"/>
+    
+    <category term="RAF" scheme="http://dealsks.com/tags/RAF/"/>
     
   </entry>
   
@@ -110,9 +110,9 @@
     <category term="Iron" scheme="http://dealsks.com/categories/Iron/"/>
     
     
-    <category term="Iron" scheme="http://dealsks.com/tags/Iron/"/>
-    
     <category term="RAF" scheme="http://dealsks.com/tags/RAF/"/>
+    
+    <category term="Iron" scheme="http://dealsks.com/tags/Iron/"/>
     
   </entry>
   
@@ -177,11 +177,11 @@
     <category term="Pot Set" scheme="http://dealsks.com/categories/Pot-Set/"/>
     
     
-    <category term="Pot Set" scheme="http://dealsks.com/tags/Pot-Set/"/>
-    
     <category term="Die Casting Soup Pot Set" scheme="http://dealsks.com/tags/Die-Casting-Soup-Pot-Set/"/>
     
     <category term="Die Casting Soup" scheme="http://dealsks.com/tags/Die-Casting-Soup/"/>
+    
+    <category term="Pot Set" scheme="http://dealsks.com/tags/Pot-Set/"/>
     
   </entry>
   
@@ -222,33 +222,6 @@
     <category term="Soup" scheme="http://dealsks.com/tags/Soup/"/>
     
     <category term="Stretch Soup Pot Set" scheme="http://dealsks.com/tags/Stretch-Soup-Pot-Set/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://dealsks.com/2022/07/15/test/"/>
-    <id>http://dealsks.com/2022/07/15/test/</id>
-    <published>2022-07-15T02:18:42.000Z</published>
-    <updated>2022-07-15T15:17:56.616Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;| price:$ | &lt;font color=red &gt;moq:2&lt;/font&gt; |&lt;/p&gt;
-&lt;hr&gt;
-&lt;!-- ITEM NO.	PRODUCT	PICTURE	UNIT PRICE	Q&#39;TY/pc	AMOUNT	Q&#39;TY/CTN</summary>
-        
-      
-    
-    
-    
-    <category term="default" scheme="http://dealsks.com/categories/default/"/>
-    
-    
-    <category term="default" scheme="http://dealsks.com/tags/default/"/>
     
   </entry>
   
@@ -451,11 +424,11 @@
     <category term="freezer" scheme="http://dealsks.com/categories/freezer/"/>
     
     
-    <category term="118L" scheme="http://dealsks.com/tags/118L/"/>
-    
     <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
     
     <category term="household" scheme="http://dealsks.com/tags/household/"/>
+    
+    <category term="118L" scheme="http://dealsks.com/tags/118L/"/>
     
     <category term="refrigerated" scheme="http://dealsks.com/tags/refrigerated/"/>
     
@@ -616,9 +589,9 @@
     
     <category term="refrigerator" scheme="http://dealsks.com/tags/refrigerator/"/>
     
-    <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
-    
     <category term="148-liter" scheme="http://dealsks.com/tags/148-liter/"/>
+    
+    <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
     
     <category term="household" scheme="http://dealsks.com/tags/household/"/>
     
@@ -656,6 +629,39 @@
     <category term="bcd-118L" scheme="http://dealsks.com/tags/bcd-118L/"/>
     
     <category term="two door" scheme="http://dealsks.com/tags/two-door/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>BCD28A-50 Single Door Refrigerator</title>
+    <link href="http://dealsks.com/2022/07/12/rong-sheng-bcd28a-50-dan-men/"/>
+    <id>http://dealsks.com/2022/07/12/rong-sheng-bcd28a-50-dan-men/</id>
+    <published>2022-07-12T09:52:13.000Z</published>
+    <updated>2022-07-19T06:36:32.258Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;| price:$58 | &lt;font color=red &gt;moq:2&lt;/font&gt; |&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- &lt;video src=&quot;视频链接&quot; controls=&quot;controls&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;Your</summary>
+        
+      
+    
+    
+    
+    <category term="refrigerator" scheme="http://dealsks.com/categories/refrigerator/"/>
+    
+    
+    <category term="refrigerator" scheme="http://dealsks.com/tags/refrigerator/"/>
+    
+    <category term="Rongsheng" scheme="http://dealsks.com/tags/Rongsheng/"/>
+    
+    <category term="BCD28A-50" scheme="http://dealsks.com/tags/BCD28A-50/"/>
+    
+    <category term="Single Door" scheme="http://dealsks.com/tags/Single-Door/"/>
     
   </entry>
   
