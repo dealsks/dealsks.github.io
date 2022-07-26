@@ -44,9 +44,9 @@
     <category term="egg beater" scheme="http://dealsks.com/categories/egg-beater/"/>
     
     
-    <category term="egg beater" scheme="http://dealsks.com/tags/egg-beater/"/>
-    
     <category term="RAF" scheme="http://dealsks.com/tags/RAF/"/>
+    
+    <category term="egg beater" scheme="http://dealsks.com/tags/egg-beater/"/>
     
   </entry>
   
@@ -110,9 +110,9 @@
     <category term="Iron" scheme="http://dealsks.com/categories/Iron/"/>
     
     
-    <category term="RAF" scheme="http://dealsks.com/tags/RAF/"/>
-    
     <category term="Iron" scheme="http://dealsks.com/tags/Iron/"/>
+    
+    <category term="RAF" scheme="http://dealsks.com/tags/RAF/"/>
     
   </entry>
   
@@ -177,11 +177,11 @@
     <category term="Pot Set" scheme="http://dealsks.com/categories/Pot-Set/"/>
     
     
+    <category term="Pot Set" scheme="http://dealsks.com/tags/Pot-Set/"/>
+    
     <category term="Die Casting Soup Pot Set" scheme="http://dealsks.com/tags/Die-Casting-Soup-Pot-Set/"/>
     
     <category term="Die Casting Soup" scheme="http://dealsks.com/tags/Die-Casting-Soup/"/>
-    
-    <category term="Pot Set" scheme="http://dealsks.com/tags/Pot-Set/"/>
     
   </entry>
   
@@ -424,11 +424,11 @@
     <category term="freezer" scheme="http://dealsks.com/categories/freezer/"/>
     
     
+    <category term="118L" scheme="http://dealsks.com/tags/118L/"/>
+    
     <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
     
     <category term="household" scheme="http://dealsks.com/tags/household/"/>
-    
-    <category term="118L" scheme="http://dealsks.com/tags/118L/"/>
     
     <category term="refrigerated" scheme="http://dealsks.com/tags/refrigerated/"/>
     
@@ -589,9 +589,9 @@
     
     <category term="refrigerator" scheme="http://dealsks.com/tags/refrigerator/"/>
     
-    <category term="148-liter" scheme="http://dealsks.com/tags/148-liter/"/>
-    
     <category term="freezer" scheme="http://dealsks.com/tags/freezer/"/>
+    
+    <category term="148-liter" scheme="http://dealsks.com/tags/148-liter/"/>
     
     <category term="household" scheme="http://dealsks.com/tags/household/"/>
     
