@@ -87,4 +87,4 @@ deploy:
    #coding: https://e.coding.net/cywu/ifruit.git
    #git@94.191.56.66:/var/repo/hexo_static.git
     
-  branch: master 
+  branch: main 
