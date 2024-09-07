@@ -83,7 +83,7 @@ theme: bmw
 deploy:
   type: git 
   repo: 
-   github: https://github.com/live17909/live17909.github.io.git
+   github: https://github.com/dealsks/dealsks.github.io.git
    #coding: https://e.coding.net/cywu/ifruit.git
    #git@94.191.56.66:/var/repo/hexo_static.git
     
